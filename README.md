@@ -1,6 +1,6 @@
 # Final Project - Social network analysis #
 
-//TODO
+Studying Social roles in Drosophila Melanogaster Groups Using Social Network Analysis
 
 Technologies used:
 
