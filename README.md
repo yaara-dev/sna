@@ -1,4 +1,4 @@
-# Final Project - Social network analysis #
+# Final Project - Systems Biology #
 
 Studying Social roles in Drosophila Melanogaster Groups Using Social Network Analysis
 
